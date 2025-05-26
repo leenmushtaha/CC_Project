@@ -1,0 +1,1587 @@
+[
+  {
+    "text": "Can you help me return this product?",
+    "intent": "return_request",
+    "sentiment": "negative"
+  },
+  {
+    "text": "The charger isn’t functioning properly.",
+    "intent": "product_issue",
+    "sentiment": "negative"
+  },
+  {
+    "text": "This isn’t what I expected, I want to return it.",
+    "intent": "return_request",
+    "sentiment": "negative"
+  },
+  {
+    "text": "How do I send this back?",
+    "intent": "return_request",
+    "sentiment": "negative"
+  },
+  {
+    "text": "I appreciate your help.",
+    "intent": "thank_you",
+    "sentiment": "positive"
+  },
+  {
+    "text": "The screen was cracked when I opened the box.",
+    "intent": "product_issue",
+    "sentiment": "negative"
+  },
+  {
+    "text": "I need to cancel my order.",
+    "intent": "cancel_order",
+    "sentiment": "negative"
+  },
+  {
+    "text": "I need a refund for my purchase.",
+    "intent": "return_request",
+    "sentiment": "negative"
+  },
+  {
+    "text": "How do I send this back?",
+    "intent": "return_request",
+    "sentiment": "negative"
+  },
+  {
+    "text": "This isn’t what I expected, I want to return it.",
+    "intent": "return_request",
+    "sentiment": "negative"
+  },
+  {
+    "text": "I need to talk to support.",
+    "intent": "greeting",
+    "sentiment": "neutral"
+  },
+  {
+    "text": "Thanks a lot!",
+    "intent": "thank_you",
+    "sentiment": "positive"
+  },
+  {
+    "text": "I ordered 3 days ago, and it’s still not here.",
+    "intent": "order_status",
+    "sentiment": "neutral"
+  },
+  {
+    "text": "Hi, can you tell me where my order is?",
+    "intent": "order_status",
+    "sentiment": "neutral"
+  },
+  {
+    "text": "Thanks a lot!",
+    "intent": "thank_you",
+    "sentiment": "positive"
+  },
+  {
+    "text": "Hey! Can someone assist me?",
+    "intent": "greeting",
+    "sentiment": "neutral"
+  },
+  {
+    "text": "When will my package arrive?",
+    "intent": "order_status",
+    "sentiment": "neutral"
+  },
+  {
+    "text": "The charger isn’t functioning properly.",
+    "intent": "product_issue",
+    "sentiment": "negative"
+  },
+  {
+    "text": "Hello, I need some help.",
+    "intent": "greeting",
+    "sentiment": "neutral"
+  },
+  {
+    "text": "I mistakenly placed an order. Cancel it.",
+    "intent": "cancel_order",
+    "sentiment": "negative"
+  },
+  {
+    "text": "Please stop the shipment. I don’t want the item.",
+    "intent": "cancel_order",
+    "sentiment": "negative"
+  },
+  {
+    "text": "This isn’t what I expected, I want to return it.",
+    "intent": "return_request",
+    "sentiment": "negative"
+  },
+  {
+    "text": "I appreciate your help.",
+    "intent": "thank_you",
+    "sentiment": "positive"
+  },
+  {
+    "text": "The product arrived damaged.",
+    "intent": "product_issue",
+    "sentiment": "negative"
+  },
+  {
+    "text": "I mistakenly placed an order. Cancel it.",
+    "intent": "cancel_order",
+    "sentiment": "negative"
+  },
+  {
+    "text": "Hi, can you tell me where my order is?",
+    "intent": "order_status",
+    "sentiment": "neutral"
+  },
+  {
+    "text": "Can you help me return this product?",
+    "intent": "return_request",
+    "sentiment": "negative"
+  },
+  {
+    "text": "Good morning, support team.",
+    "intent": "greeting",
+    "sentiment": "neutral"
+  },
+  {
+    "text": "I appreciate your help.",
+    "intent": "thank_you",
+    "sentiment": "positive"
+  },
+  {
+    "text": "Hi, can you tell me where my order is?",
+    "intent": "order_status",
+    "sentiment": "neutral"
+  },
+  {
+    "text": "I appreciate your help.",
+    "intent": "thank_you",
+    "sentiment": "positive"
+  },
+  {
+    "text": "There’s a defect in the item I received.",
+    "intent": "product_issue",
+    "sentiment": "negative"
+  },
+  {
+    "text": "The product arrived damaged.",
+    "intent": "product_issue",
+    "sentiment": "negative"
+  },
+  {
+    "text": "Can you cancel what I just bought?",
+    "intent": "cancel_order",
+    "sentiment": "negative"
+  },
+  {
+    "text": "Thanks, that solves my problem.",
+    "intent": "thank_you",
+    "sentiment": "positive"
+  },
+  {
+    "text": "When will my package arrive?",
+    "intent": "order_status",
+    "sentiment": "neutral"
+  },
+  {
+    "text": "Hi, can you tell me where my order is?",
+    "intent": "order_status",
+    "sentiment": "neutral"
+  },
+  {
+    "text": "Can you cancel what I just bought?",
+    "intent": "cancel_order",
+    "sentiment": "negative"
+  },
+  {
+    "text": "What’s the tracking number for my order?",
+    "intent": "order_status",
+    "sentiment": "neutral"
+  },
+  {
+    "text": "There’s a defect in the item I received.",
+    "intent": "product_issue",
+    "sentiment": "negative"
+  },
+  {
+    "text": "When will my package arrive?",
+    "intent": "order_status",
+    "sentiment": "neutral"
+  },
+  {
+    "text": "Hello, I need some help.",
+    "intent": "greeting",
+    "sentiment": "neutral"
+  },
+  {
+    "text": "Can you help me return this product?",
+    "intent": "return_request",
+    "sentiment": "negative"
+  },
+  {
+    "text": "Please stop the shipment. I don’t want the item.",
+    "intent": "cancel_order",
+    "sentiment": "negative"
+  },
+  {
+    "text": "I ordered 3 days ago, and it’s still not here.",
+    "intent": "order_status",
+    "sentiment": "neutral"
+  },
+  {
+    "text": "The screen was cracked when I opened the box.",
+    "intent": "product_issue",
+    "sentiment": "negative"
+  },
+  {
+    "text": "My item doesn’t work at all.",
+    "intent": "product_issue",
+    "sentiment": "negative"
+  },
+  {
+    "text": "I need a refund for my purchase.",
+    "intent": "return_request",
+    "sentiment": "negative"
+  },
+  {
+    "text": "Can you cancel what I just bought?",
+    "intent": "cancel_order",
+    "sentiment": "negative"
+  },
+  {
+    "text": "How do I send this back?",
+    "intent": "return_request",
+    "sentiment": "negative"
+  },
+  {
+    "text": "Thank you for the quick response.",
+    "intent": "thank_you",
+    "sentiment": "positive"
+  },
+  {
+    "text": "Great support, thank you!",
+    "intent": "thank_you",
+    "sentiment": "positive"
+  },
+  {
+    "text": "The screen was cracked when I opened the box.",
+    "intent": "product_issue",
+    "sentiment": "negative"
+  },
+  {
+    "text": "My item doesn’t work at all.",
+    "intent": "product_issue",
+    "sentiment": "negative"
+  },
+  {
+    "text": "There’s a defect in the item I received.",
+    "intent": "product_issue",
+    "sentiment": "negative"
+  },
+  {
+    "text": "There’s a defect in the item I received.",
+    "intent": "product_issue",
+    "sentiment": "negative"
+  },
+  {
+    "text": "Has my order been shipped yet?",
+    "intent": "order_status",
+    "sentiment": "neutral"
+  },
+  {
+    "text": "I ordered 3 days ago, and it’s still not here.",
+    "intent": "order_status",
+    "sentiment": "neutral"
+  },
+  {
+    "text": "I mistakenly placed an order. Cancel it.",
+    "intent": "cancel_order",
+    "sentiment": "negative"
+  },
+  {
+    "text": "Has my order been shipped yet?",
+    "intent": "order_status",
+    "sentiment": "neutral"
+  },
+  {
+    "text": "When will my package arrive?",
+    "intent": "order_status",
+    "sentiment": "neutral"
+  },
+  {
+    "text": "The product arrived damaged.",
+    "intent": "product_issue",
+    "sentiment": "negative"
+  },
+  {
+    "text": "Good morning, support team.",
+    "intent": "greeting",
+    "sentiment": "neutral"
+  },
+  {
+    "text": "Thanks, that solves my problem.",
+    "intent": "thank_you",
+    "sentiment": "positive"
+  },
+  {
+    "text": "This isn’t what I expected, I want to return it.",
+    "intent": "return_request",
+    "sentiment": "negative"
+  },
+  {
+    "text": "Thank you for the quick response.",
+    "intent": "thank_you",
+    "sentiment": "positive"
+  },
+  {
+    "text": "Good morning, support team.",
+    "intent": "greeting",
+    "sentiment": "neutral"
+  },
+  {
+    "text": "Good morning, support team.",
+    "intent": "greeting",
+    "sentiment": "neutral"
+  },
+  {
+    "text": "How do I send this back?",
+    "intent": "return_request",
+    "sentiment": "negative"
+  },
+  {
+    "text": "Great support, thank you!",
+    "intent": "thank_you",
+    "sentiment": "positive"
+  },
+  {
+    "text": "Thanks a lot!",
+    "intent": "thank_you",
+    "sentiment": "positive"
+  },
+  {
+    "text": "I mistakenly placed an order. Cancel it.",
+    "intent": "cancel_order",
+    "sentiment": "negative"
+  },
+  {
+    "text": "I need a refund for my purchase.",
+    "intent": "return_request",
+    "sentiment": "negative"
+  },
+  {
+    "text": "Can you help me return this product?",
+    "intent": "return_request",
+    "sentiment": "negative"
+  },
+  {
+    "text": "Please stop the shipment. I don’t want the item.",
+    "intent": "cancel_order",
+    "sentiment": "negative"
+  },
+  {
+    "text": "I mistakenly placed an order. Cancel it.",
+    "intent": "cancel_order",
+    "sentiment": "negative"
+  },
+  {
+    "text": "What’s the tracking number for my order?",
+    "intent": "order_status",
+    "sentiment": "neutral"
+  },
+  {
+    "text": "I need a refund for my purchase.",
+    "intent": "return_request",
+    "sentiment": "negative"
+  },
+  {
+    "text": "Has my order been shipped yet?",
+    "intent": "order_status",
+    "sentiment": "neutral"
+  },
+  {
+    "text": "Can you cancel what I just bought?",
+    "intent": "cancel_order",
+    "sentiment": "negative"
+  },
+  {
+    "text": "Thank you for the quick response.",
+    "intent": "thank_you",
+    "sentiment": "positive"
+  },
+  {
+    "text": "My item doesn’t work at all.",
+    "intent": "product_issue",
+    "sentiment": "negative"
+  },
+  {
+    "text": "The charger isn’t functioning properly.",
+    "intent": "product_issue",
+    "sentiment": "negative"
+  },
+  {
+    "text": "I mistakenly placed an order. Cancel it.",
+    "intent": "cancel_order",
+    "sentiment": "negative"
+  },
+  {
+    "text": "Thanks a lot!",
+    "intent": "thank_you",
+    "sentiment": "positive"
+  },
+  {
+    "text": "I ordered 3 days ago, and it’s still not here.",
+    "intent": "order_status",
+    "sentiment": "neutral"
+  },
+  {
+    "text": "Great support, thank you!",
+    "intent": "thank_you",
+    "sentiment": "positive"
+  },
+  {
+    "text": "When will my package arrive?",
+    "intent": "order_status",
+    "sentiment": "neutral"
+  },
+  {
+    "text": "Thanks a lot!",
+    "intent": "thank_you",
+    "sentiment": "positive"
+  },
+  {
+    "text": "I appreciate your help.",
+    "intent": "thank_you",
+    "sentiment": "positive"
+  },
+  {
+    "text": "The charger isn’t functioning properly.",
+    "intent": "product_issue",
+    "sentiment": "negative"
+  },
+  {
+    "text": "I want to return an item I bought.",
+    "intent": "return_request",
+    "sentiment": "negative"
+  },
+  {
+    "text": "Good morning, support team.",
+    "intent": "greeting",
+    "sentiment": "neutral"
+  },
+  {
+    "text": "Please stop the shipment. I don’t want the item.",
+    "intent": "cancel_order",
+    "sentiment": "negative"
+  },
+  {
+    "text": "The product arrived damaged.",
+    "intent": "product_issue",
+    "sentiment": "negative"
+  },
+  {
+    "text": "Hello, I need some help.",
+    "intent": "greeting",
+    "sentiment": "neutral"
+  },
+  {
+    "text": "The charger isn’t functioning properly.",
+    "intent": "product_issue",
+    "sentiment": "negative"
+  },
+  {
+    "text": "Hi there!",
+    "intent": "greeting",
+    "sentiment": "neutral"
+  },
+  {
+    "text": "I need a refund for my purchase.",
+    "intent": "return_request",
+    "sentiment": "negative"
+  },
+  {
+    "text": "What’s the tracking number for my order?",
+    "intent": "order_status",
+    "sentiment": "neutral"
+  },
+  {
+    "text": "The charger isn’t functioning properly.",
+    "intent": "product_issue",
+    "sentiment": "negative"
+  },
+  {
+    "text": "When will my package arrive?",
+    "intent": "order_status",
+    "sentiment": "neutral"
+  },
+  {
+    "text": "I mistakenly placed an order. Cancel it.",
+    "intent": "cancel_order",
+    "sentiment": "negative"
+  },
+  {
+    "text": "There’s a defect in the item I received.",
+    "intent": "product_issue",
+    "sentiment": "negative"
+  },
+  {
+    "text": "I mistakenly placed an order. Cancel it.",
+    "intent": "cancel_order",
+    "sentiment": "negative"
+  },
+  {
+    "text": "When will my package arrive?",
+    "intent": "order_status",
+    "sentiment": "neutral"
+  },
+  {
+    "text": "There’s a defect in the item I received.",
+    "intent": "product_issue",
+    "sentiment": "negative"
+  },
+  {
+    "text": "What’s the tracking number for my order?",
+    "intent": "order_status",
+    "sentiment": "neutral"
+  },
+  {
+    "text": "Can you help me return this product?",
+    "intent": "return_request",
+    "sentiment": "negative"
+  },
+  {
+    "text": "This isn’t what I expected, I want to return it.",
+    "intent": "return_request",
+    "sentiment": "negative"
+  },
+  {
+    "text": "The charger isn’t functioning properly.",
+    "intent": "product_issue",
+    "sentiment": "negative"
+  },
+  {
+    "text": "Please stop the shipment. I don’t want the item.",
+    "intent": "cancel_order",
+    "sentiment": "negative"
+  },
+  {
+    "text": "Thanks, that solves my problem.",
+    "intent": "thank_you",
+    "sentiment": "positive"
+  },
+  {
+    "text": "Great support, thank you!",
+    "intent": "thank_you",
+    "sentiment": "positive"
+  },
+  {
+    "text": "Hello, I need some help.",
+    "intent": "greeting",
+    "sentiment": "neutral"
+  },
+  {
+    "text": "I mistakenly placed an order. Cancel it.",
+    "intent": "cancel_order",
+    "sentiment": "negative"
+  },
+  {
+    "text": "Thanks a lot!",
+    "intent": "thank_you",
+    "sentiment": "positive"
+  },
+  {
+    "text": "How do I send this back?",
+    "intent": "return_request",
+    "sentiment": "negative"
+  },
+  {
+    "text": "I appreciate your help.",
+    "intent": "thank_you",
+    "sentiment": "positive"
+  },
+  {
+    "text": "Can you help me return this product?",
+    "intent": "return_request",
+    "sentiment": "negative"
+  },
+  {
+    "text": "This isn’t what I expected, I want to return it.",
+    "intent": "return_request",
+    "sentiment": "negative"
+  },
+  {
+    "text": "The screen was cracked when I opened the box.",
+    "intent": "product_issue",
+    "sentiment": "negative"
+  },
+  {
+    "text": "Thank you for the quick response.",
+    "intent": "thank_you",
+    "sentiment": "positive"
+  },
+  {
+    "text": "This isn’t what I expected, I want to return it.",
+    "intent": "return_request",
+    "sentiment": "negative"
+  },
+  {
+    "text": "My item doesn’t work at all.",
+    "intent": "product_issue",
+    "sentiment": "negative"
+  },
+  {
+    "text": "I want to return an item I bought.",
+    "intent": "return_request",
+    "sentiment": "negative"
+  },
+  {
+    "text": "The screen was cracked when I opened the box.",
+    "intent": "product_issue",
+    "sentiment": "negative"
+  },
+  {
+    "text": "I mistakenly placed an order. Cancel it.",
+    "intent": "cancel_order",
+    "sentiment": "negative"
+  },
+  {
+    "text": "I need a refund for my purchase.",
+    "intent": "return_request",
+    "sentiment": "negative"
+  },
+  {
+    "text": "I need to cancel my order.",
+    "intent": "cancel_order",
+    "sentiment": "negative"
+  },
+  {
+    "text": "Hello, I need some help.",
+    "intent": "greeting",
+    "sentiment": "neutral"
+  },
+  {
+    "text": "Please stop the shipment. I don’t want the item.",
+    "intent": "cancel_order",
+    "sentiment": "negative"
+  },
+  {
+    "text": "I changed my mind, please cancel my order.",
+    "intent": "cancel_order",
+    "sentiment": "negative"
+  },
+  {
+    "text": "I changed my mind, please cancel my order.",
+    "intent": "cancel_order",
+    "sentiment": "negative"
+  },
+  {
+    "text": "I mistakenly placed an order. Cancel it.",
+    "intent": "cancel_order",
+    "sentiment": "negative"
+  },
+  {
+    "text": "I appreciate your help.",
+    "intent": "thank_you",
+    "sentiment": "positive"
+  },
+  {
+    "text": "Thanks, that solves my problem.",
+    "intent": "thank_you",
+    "sentiment": "positive"
+  },
+  {
+    "text": "Great support, thank you!",
+    "intent": "thank_you",
+    "sentiment": "positive"
+  },
+  {
+    "text": "The charger isn’t functioning properly.",
+    "intent": "product_issue",
+    "sentiment": "negative"
+  },
+  {
+    "text": "Has my order been shipped yet?",
+    "intent": "order_status",
+    "sentiment": "neutral"
+  },
+  {
+    "text": "I changed my mind, please cancel my order.",
+    "intent": "cancel_order",
+    "sentiment": "negative"
+  },
+  {
+    "text": "Can you cancel what I just bought?",
+    "intent": "cancel_order",
+    "sentiment": "negative"
+  },
+  {
+    "text": "I need a refund for my purchase.",
+    "intent": "return_request",
+    "sentiment": "negative"
+  },
+  {
+    "text": "Can you help me return this product?",
+    "intent": "return_request",
+    "sentiment": "negative"
+  },
+  {
+    "text": "Good morning, support team.",
+    "intent": "greeting",
+    "sentiment": "neutral"
+  },
+  {
+    "text": "Thank you for the quick response.",
+    "intent": "thank_you",
+    "sentiment": "positive"
+  },
+  {
+    "text": "I mistakenly placed an order. Cancel it.",
+    "intent": "cancel_order",
+    "sentiment": "negative"
+  },
+  {
+    "text": "Has my order been shipped yet?",
+    "intent": "order_status",
+    "sentiment": "neutral"
+  },
+  {
+    "text": "I need to cancel my order.",
+    "intent": "cancel_order",
+    "sentiment": "negative"
+  },
+  {
+    "text": "Good morning, support team.",
+    "intent": "greeting",
+    "sentiment": "neutral"
+  },
+  {
+    "text": "I mistakenly placed an order. Cancel it.",
+    "intent": "cancel_order",
+    "sentiment": "negative"
+  },
+  {
+    "text": "Hi there!",
+    "intent": "greeting",
+    "sentiment": "neutral"
+  },
+  {
+    "text": "I mistakenly placed an order. Cancel it.",
+    "intent": "cancel_order",
+    "sentiment": "negative"
+  },
+  {
+    "text": "Please stop the shipment. I don’t want the item.",
+    "intent": "cancel_order",
+    "sentiment": "negative"
+  },
+  {
+    "text": "Thank you for the quick response.",
+    "intent": "thank_you",
+    "sentiment": "positive"
+  },
+  {
+    "text": "The charger isn’t functioning properly.",
+    "intent": "product_issue",
+    "sentiment": "negative"
+  },
+  {
+    "text": "The charger isn’t functioning properly.",
+    "intent": "product_issue",
+    "sentiment": "negative"
+  },
+  {
+    "text": "I need to cancel my order.",
+    "intent": "cancel_order",
+    "sentiment": "negative"
+  },
+  {
+    "text": "I mistakenly placed an order. Cancel it.",
+    "intent": "cancel_order",
+    "sentiment": "negative"
+  },
+  {
+    "text": "Has my order been shipped yet?",
+    "intent": "order_status",
+    "sentiment": "neutral"
+  },
+  {
+    "text": "This isn’t what I expected, I want to return it.",
+    "intent": "return_request",
+    "sentiment": "negative"
+  },
+  {
+    "text": "The screen was cracked when I opened the box.",
+    "intent": "product_issue",
+    "sentiment": "negative"
+  },
+  {
+    "text": "Hello, I need some help.",
+    "intent": "greeting",
+    "sentiment": "neutral"
+  },
+  {
+    "text": "I appreciate your help.",
+    "intent": "thank_you",
+    "sentiment": "positive"
+  },
+  {
+    "text": "My item doesn’t work at all.",
+    "intent": "product_issue",
+    "sentiment": "negative"
+  },
+  {
+    "text": "Hello, I need some help.",
+    "intent": "greeting",
+    "sentiment": "neutral"
+  },
+  {
+    "text": "Thanks, that solves my problem.",
+    "intent": "thank_you",
+    "sentiment": "positive"
+  },
+  {
+    "text": "Great support, thank you!",
+    "intent": "thank_you",
+    "sentiment": "positive"
+  },
+  {
+    "text": "I ordered 3 days ago, and it’s still not here.",
+    "intent": "order_status",
+    "sentiment": "neutral"
+  },
+  {
+    "text": "I want to return an item I bought.",
+    "intent": "return_request",
+    "sentiment": "negative"
+  },
+  {
+    "text": "My item doesn’t work at all.",
+    "intent": "product_issue",
+    "sentiment": "negative"
+  },
+  {
+    "text": "I appreciate your help.",
+    "intent": "thank_you",
+    "sentiment": "positive"
+  },
+  {
+    "text": "There’s a defect in the item I received.",
+    "intent": "product_issue",
+    "sentiment": "negative"
+  },
+  {
+    "text": "Good morning, support team.",
+    "intent": "greeting",
+    "sentiment": "neutral"
+  },
+  {
+    "text": "When will my package arrive?",
+    "intent": "order_status",
+    "sentiment": "neutral"
+  },
+  {
+    "text": "The product arrived damaged.",
+    "intent": "product_issue",
+    "sentiment": "negative"
+  },
+  {
+    "text": "Thank you for the quick response.",
+    "intent": "thank_you",
+    "sentiment": "positive"
+  },
+  {
+    "text": "Please stop the shipment. I don’t want the item.",
+    "intent": "cancel_order",
+    "sentiment": "negative"
+  },
+  {
+    "text": "The screen was cracked when I opened the box.",
+    "intent": "product_issue",
+    "sentiment": "negative"
+  },
+  {
+    "text": "I need to talk to support.",
+    "intent": "greeting",
+    "sentiment": "neutral"
+  },
+  {
+    "text": "Please stop the shipment. I don’t want the item.",
+    "intent": "cancel_order",
+    "sentiment": "negative"
+  },
+  {
+    "text": "Hello, I need some help.",
+    "intent": "greeting",
+    "sentiment": "neutral"
+  },
+  {
+    "text": "I want to return an item I bought.",
+    "intent": "return_request",
+    "sentiment": "negative"
+  },
+  {
+    "text": "Can you cancel what I just bought?",
+    "intent": "cancel_order",
+    "sentiment": "negative"
+  },
+  {
+    "text": "How do I send this back?",
+    "intent": "return_request",
+    "sentiment": "negative"
+  },
+  {
+    "text": "My item doesn’t work at all.",
+    "intent": "product_issue",
+    "sentiment": "negative"
+  },
+  {
+    "text": "Hi there!",
+    "intent": "greeting",
+    "sentiment": "neutral"
+  },
+  {
+    "text": "I need to talk to support.",
+    "intent": "greeting",
+    "sentiment": "neutral"
+  },
+  {
+    "text": "What’s the tracking number for my order?",
+    "intent": "order_status",
+    "sentiment": "neutral"
+  },
+  {
+    "text": "What’s the tracking number for my order?",
+    "intent": "order_status",
+    "sentiment": "neutral"
+  },
+  {
+    "text": "The screen was cracked when I opened the box.",
+    "intent": "product_issue",
+    "sentiment": "negative"
+  },
+  {
+    "text": "Can you cancel what I just bought?",
+    "intent": "cancel_order",
+    "sentiment": "negative"
+  },
+  {
+    "text": "Hi there!",
+    "intent": "greeting",
+    "sentiment": "neutral"
+  },
+  {
+    "text": "This isn’t what I expected, I want to return it.",
+    "intent": "return_request",
+    "sentiment": "negative"
+  },
+  {
+    "text": "Good morning, support team.",
+    "intent": "greeting",
+    "sentiment": "neutral"
+  },
+  {
+    "text": "I changed my mind, please cancel my order.",
+    "intent": "cancel_order",
+    "sentiment": "negative"
+  },
+  {
+    "text": "My item doesn’t work at all.",
+    "intent": "product_issue",
+    "sentiment": "negative"
+  },
+  {
+    "text": "Can you cancel what I just bought?",
+    "intent": "cancel_order",
+    "sentiment": "negative"
+  },
+  {
+    "text": "I need to talk to support.",
+    "intent": "greeting",
+    "sentiment": "neutral"
+  },
+  {
+    "text": "Hey! Can someone assist me?",
+    "intent": "greeting",
+    "sentiment": "neutral"
+  },
+  {
+    "text": "I need a refund for my purchase.",
+    "intent": "return_request",
+    "sentiment": "negative"
+  },
+  {
+    "text": "How do I send this back?",
+    "intent": "return_request",
+    "sentiment": "negative"
+  },
+  {
+    "text": "Hello, I need some help.",
+    "intent": "greeting",
+    "sentiment": "neutral"
+  },
+  {
+    "text": "There’s a defect in the item I received.",
+    "intent": "product_issue",
+    "sentiment": "negative"
+  },
+  {
+    "text": "When will my package arrive?",
+    "intent": "order_status",
+    "sentiment": "neutral"
+  },
+  {
+    "text": "I changed my mind, please cancel my order.",
+    "intent": "cancel_order",
+    "sentiment": "negative"
+  },
+  {
+    "text": "The charger isn’t functioning properly.",
+    "intent": "product_issue",
+    "sentiment": "negative"
+  },
+  {
+    "text": "Can you cancel what I just bought?",
+    "intent": "cancel_order",
+    "sentiment": "negative"
+  },
+  {
+    "text": "Good morning, support team.",
+    "intent": "greeting",
+    "sentiment": "neutral"
+  },
+  {
+    "text": "When will my package arrive?",
+    "intent": "order_status",
+    "sentiment": "neutral"
+  },
+  {
+    "text": "Good morning, support team.",
+    "intent": "greeting",
+    "sentiment": "neutral"
+  },
+  {
+    "text": "Please stop the shipment. I don’t want the item.",
+    "intent": "cancel_order",
+    "sentiment": "negative"
+  },
+  {
+    "text": "Hi there!",
+    "intent": "greeting",
+    "sentiment": "neutral"
+  },
+  {
+    "text": "This isn’t what I expected, I want to return it.",
+    "intent": "return_request",
+    "sentiment": "negative"
+  },
+  {
+    "text": "Great support, thank you!",
+    "intent": "thank_you",
+    "sentiment": "positive"
+  },
+  {
+    "text": "I need to talk to support.",
+    "intent": "greeting",
+    "sentiment": "neutral"
+  },
+  {
+    "text": "I want to return an item I bought.",
+    "intent": "return_request",
+    "sentiment": "negative"
+  },
+  {
+    "text": "The charger isn’t functioning properly.",
+    "intent": "product_issue",
+    "sentiment": "negative"
+  },
+  {
+    "text": "I need to talk to support.",
+    "intent": "greeting",
+    "sentiment": "neutral"
+  },
+  {
+    "text": "I need to cancel my order.",
+    "intent": "cancel_order",
+    "sentiment": "negative"
+  },
+  {
+    "text": "Please stop the shipment. I don’t want the item.",
+    "intent": "cancel_order",
+    "sentiment": "negative"
+  },
+  {
+    "text": "I ordered 3 days ago, and it’s still not here.",
+    "intent": "order_status",
+    "sentiment": "neutral"
+  },
+  {
+    "text": "Thank you for the quick response.",
+    "intent": "thank_you",
+    "sentiment": "positive"
+  },
+  {
+    "text": "I need to cancel my order.",
+    "intent": "cancel_order",
+    "sentiment": "negative"
+  },
+  {
+    "text": "Can you help me return this product?",
+    "intent": "return_request",
+    "sentiment": "negative"
+  },
+  {
+    "text": "This isn’t what I expected, I want to return it.",
+    "intent": "return_request",
+    "sentiment": "negative"
+  },
+  {
+    "text": "I need to cancel my order.",
+    "intent": "cancel_order",
+    "sentiment": "negative"
+  },
+  {
+    "text": "Hey! Can someone assist me?",
+    "intent": "greeting",
+    "sentiment": "neutral"
+  },
+  {
+    "text": "Please stop the shipment. I don’t want the item.",
+    "intent": "cancel_order",
+    "sentiment": "negative"
+  },
+  {
+    "text": "This isn’t what I expected, I want to return it.",
+    "intent": "return_request",
+    "sentiment": "negative"
+  },
+  {
+    "text": "There’s a defect in the item I received.",
+    "intent": "product_issue",
+    "sentiment": "negative"
+  },
+  {
+    "text": "How do I send this back?",
+    "intent": "return_request",
+    "sentiment": "negative"
+  },
+  {
+    "text": "My item doesn’t work at all.",
+    "intent": "product_issue",
+    "sentiment": "negative"
+  },
+  {
+    "text": "I need a refund for my purchase.",
+    "intent": "return_request",
+    "sentiment": "negative"
+  },
+  {
+    "text": "Hey! Can someone assist me?",
+    "intent": "greeting",
+    "sentiment": "neutral"
+  },
+  {
+    "text": "I appreciate your help.",
+    "intent": "thank_you",
+    "sentiment": "positive"
+  },
+  {
+    "text": "The charger isn’t functioning properly.",
+    "intent": "product_issue",
+    "sentiment": "negative"
+  },
+  {
+    "text": "Hi, can you tell me where my order is?",
+    "intent": "order_status",
+    "sentiment": "neutral"
+  },
+  {
+    "text": "I need to talk to support.",
+    "intent": "greeting",
+    "sentiment": "neutral"
+  },
+  {
+    "text": "Thanks, that solves my problem.",
+    "intent": "thank_you",
+    "sentiment": "positive"
+  },
+  {
+    "text": "Can you cancel what I just bought?",
+    "intent": "cancel_order",
+    "sentiment": "negative"
+  },
+  {
+    "text": "Thanks, that solves my problem.",
+    "intent": "thank_you",
+    "sentiment": "positive"
+  },
+  {
+    "text": "The screen was cracked when I opened the box.",
+    "intent": "product_issue",
+    "sentiment": "negative"
+  },
+  {
+    "text": "I want to return an item I bought.",
+    "intent": "return_request",
+    "sentiment": "negative"
+  },
+  {
+    "text": "I need to talk to support.",
+    "intent": "greeting",
+    "sentiment": "neutral"
+  },
+  {
+    "text": "I need to cancel my order.",
+    "intent": "cancel_order",
+    "sentiment": "negative"
+  },
+  {
+    "text": "Thank you for the quick response.",
+    "intent": "thank_you",
+    "sentiment": "positive"
+  },
+  {
+    "text": "My item doesn’t work at all.",
+    "intent": "product_issue",
+    "sentiment": "negative"
+  },
+  {
+    "text": "Thanks a lot!",
+    "intent": "thank_you",
+    "sentiment": "positive"
+  },
+  {
+    "text": "This isn’t what I expected, I want to return it.",
+    "intent": "return_request",
+    "sentiment": "negative"
+  },
+  {
+    "text": "Good morning, support team.",
+    "intent": "greeting",
+    "sentiment": "neutral"
+  },
+  {
+    "text": "The screen was cracked when I opened the box.",
+    "intent": "product_issue",
+    "sentiment": "negative"
+  },
+  {
+    "text": "Good morning, support team.",
+    "intent": "greeting",
+    "sentiment": "neutral"
+  },
+  {
+    "text": "Please stop the shipment. I don’t want the item.",
+    "intent": "cancel_order",
+    "sentiment": "negative"
+  },
+  {
+    "text": "Hi, can you tell me where my order is?",
+    "intent": "order_status",
+    "sentiment": "neutral"
+  },
+  {
+    "text": "This isn’t what I expected, I want to return it.",
+    "intent": "return_request",
+    "sentiment": "negative"
+  },
+  {
+    "text": "Thank you for the quick response.",
+    "intent": "thank_you",
+    "sentiment": "positive"
+  },
+  {
+    "text": "Hi there!",
+    "intent": "greeting",
+    "sentiment": "neutral"
+  },
+  {
+    "text": "Please stop the shipment. I don’t want the item.",
+    "intent": "cancel_order",
+    "sentiment": "negative"
+  },
+  {
+    "text": "Has my order been shipped yet?",
+    "intent": "order_status",
+    "sentiment": "neutral"
+  },
+  {
+    "text": "Please stop the shipment. I don’t want the item.",
+    "intent": "cancel_order",
+    "sentiment": "negative"
+  },
+  {
+    "text": "I appreciate your help.",
+    "intent": "thank_you",
+    "sentiment": "positive"
+  },
+  {
+    "text": "Good morning, support team.",
+    "intent": "greeting",
+    "sentiment": "neutral"
+  },
+  {
+    "text": "Thanks a lot!",
+    "intent": "thank_you",
+    "sentiment": "positive"
+  },
+  {
+    "text": "I changed my mind, please cancel my order.",
+    "intent": "cancel_order",
+    "sentiment": "negative"
+  },
+  {
+    "text": "I need a refund for my purchase.",
+    "intent": "return_request",
+    "sentiment": "negative"
+  },
+  {
+    "text": "My item doesn’t work at all.",
+    "intent": "product_issue",
+    "sentiment": "negative"
+  },
+  {
+    "text": "Can you help me return this product?",
+    "intent": "return_request",
+    "sentiment": "negative"
+  },
+  {
+    "text": "The charger isn’t functioning properly.",
+    "intent": "product_issue",
+    "sentiment": "negative"
+  },
+  {
+    "text": "Hi there!",
+    "intent": "greeting",
+    "sentiment": "neutral"
+  },
+  {
+    "text": "I want to return an item I bought.",
+    "intent": "return_request",
+    "sentiment": "negative"
+  },
+  {
+    "text": "I need to talk to support.",
+    "intent": "greeting",
+    "sentiment": "neutral"
+  },
+  {
+    "text": "When will my package arrive?",
+    "intent": "order_status",
+    "sentiment": "neutral"
+  },
+  {
+    "text": "My item doesn’t work at all.",
+    "intent": "product_issue",
+    "sentiment": "negative"
+  },
+  {
+    "text": "I ordered 3 days ago, and it’s still not here.",
+    "intent": "order_status",
+    "sentiment": "neutral"
+  },
+  {
+    "text": "This isn’t what I expected, I want to return it.",
+    "intent": "return_request",
+    "sentiment": "negative"
+  },
+  {
+    "text": "The screen was cracked when I opened the box.",
+    "intent": "product_issue",
+    "sentiment": "negative"
+  },
+  {
+    "text": "I mistakenly placed an order. Cancel it.",
+    "intent": "cancel_order",
+    "sentiment": "negative"
+  },
+  {
+    "text": "The product arrived damaged.",
+    "intent": "product_issue",
+    "sentiment": "negative"
+  },
+  {
+    "text": "I need to cancel my order.",
+    "intent": "cancel_order",
+    "sentiment": "negative"
+  },
+  {
+    "text": "Good morning, support team.",
+    "intent": "greeting",
+    "sentiment": "neutral"
+  },
+  {
+    "text": "What’s the tracking number for my order?",
+    "intent": "order_status",
+    "sentiment": "neutral"
+  },
+  {
+    "text": "What’s the tracking number for my order?",
+    "intent": "order_status",
+    "sentiment": "neutral"
+  },
+  {
+    "text": "What’s the tracking number for my order?",
+    "intent": "order_status",
+    "sentiment": "neutral"
+  },
+  {
+    "text": "Can you cancel what I just bought?",
+    "intent": "cancel_order",
+    "sentiment": "negative"
+  },
+  {
+    "text": "Can you cancel what I just bought?",
+    "intent": "cancel_order",
+    "sentiment": "negative"
+  },
+  {
+    "text": "I need a refund for my purchase.",
+    "intent": "return_request",
+    "sentiment": "negative"
+  },
+  {
+    "text": "The charger isn’t functioning properly.",
+    "intent": "product_issue",
+    "sentiment": "negative"
+  },
+  {
+    "text": "Has my order been shipped yet?",
+    "intent": "order_status",
+    "sentiment": "neutral"
+  },
+  {
+    "text": "Hey! Can someone assist me?",
+    "intent": "greeting",
+    "sentiment": "neutral"
+  },
+  {
+    "text": "I need a refund for my purchase.",
+    "intent": "return_request",
+    "sentiment": "negative"
+  },
+  {
+    "text": "Thanks, that solves my problem.",
+    "intent": "thank_you",
+    "sentiment": "positive"
+  },
+  {
+    "text": "What’s the tracking number for my order?",
+    "intent": "order_status",
+    "sentiment": "neutral"
+  },
+  {
+    "text": "What’s the tracking number for my order?",
+    "intent": "order_status",
+    "sentiment": "neutral"
+  },
+  {
+    "text": "The charger isn’t functioning properly.",
+    "intent": "product_issue",
+    "sentiment": "negative"
+  },
+  {
+    "text": "I need to talk to support.",
+    "intent": "greeting",
+    "sentiment": "neutral"
+  },
+  {
+    "text": "The screen was cracked when I opened the box.",
+    "intent": "product_issue",
+    "sentiment": "negative"
+  },
+  {
+    "text": "My item doesn’t work at all.",
+    "intent": "product_issue",
+    "sentiment": "negative"
+  },
+  {
+    "text": "Thanks, that solves my problem.",
+    "intent": "thank_you",
+    "sentiment": "positive"
+  },
+  {
+    "text": "How do I send this back?",
+    "intent": "return_request",
+    "sentiment": "negative"
+  },
+  {
+    "text": "I want to exchange this for something else.",
+    "intent": "return_request",
+    "sentiment": "negative"
+  },
+  {
+    "text": "The headphones stopped working after a day.",
+    "intent": "product_issue",
+    "sentiment": "negative"
+  },
+  {
+    "text": "Please cancel my recent order immediately.",
+    "intent": "cancel_order",
+    "sentiment": "negative"
+  },
+  {
+    "text": "Is there a delay with my shipment?",
+    "intent": "order_status",
+    "sentiment": "neutral"
+  },
+  {
+    "text": "Hi, I\u2019m looking for some assistance.",
+    "intent": "greeting",
+    "sentiment": "neutral"
+  },
+  {
+    "text": "Much appreciated for resolving my issue!",
+    "intent": "thank_you",
+    "sentiment": "positive"
+  },
+  {
+    "text": "I need help",
+    "intent": "greeting",
+    "sentiment": "neutral"
+  },
+  {
+    "text": "how to fix this?",
+    "intent": "product_issue",
+    "sentiment": "negative"
+  },
+  {
+    "text": "Where is my delivery?",
+    "intent": "order_status",
+    "sentiment": "neutral"
+  },
+  {
+    "text": "When is my package arriving?",
+    "intent": "order_status",
+    "sentiment": "neutral"
+  },
+  {
+    "text": "The screen is cracked.",
+    "intent": "product_issue",
+    "sentiment": "negative"
+  },
+  {
+    "text": "The screen is cracked!",
+    "intent": "order_status",
+    "sentiment": "negative"
+  },
+  {
+    "text": "Return this product immediately!",
+    "intent": "order_status",
+    "sentiment": "neutral"
+  },
+  {
+    "text": "I want to cancel my order please.",
+    "intent": "order_status",
+    "sentiment": "neutral"
+  },
+  {
+    "text": "Thanks a lot for your help!",
+    "intent": "greeting",
+    "sentiment": "positive"
+  },
+  {
+    "text": "hello",
+    "intent": "greeting",
+    "sentiment": "positive"
+  },
+  {
+    "text": "When is my package arriving?",
+    "intent": "order_status",
+    "sentiment": "neutral"
+  }
+]
